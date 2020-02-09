@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "480641999813",
+    "firebase_url": "https://fir-loginapp-258f0.firebaseio.com",
+    "project_id": "fir-loginapp-258f0",
+    "storage_bucket": "fir-loginapp-258f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480641999813:android:06dbea622745316f",
+        "android_client_info": {
+          "package_name": "com.example.dante.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480641999813-fmlastocq827fink3k7hu6lhcmegq7pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvUknqpDXNoWsuGguVx5ugrekgRd_lx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
